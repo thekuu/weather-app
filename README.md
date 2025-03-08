@@ -1,6 +1,6 @@
 # Weather App 🌦️
 
-A modern and visually stunning weather app that provides real-time weather information, including current conditions, temperature, humidity, wind speed, and a 4-day forecast.
+A modern and visually stunning weather app that provides real-time weather information, including current conditions, temperature, humidity, wind speed, and a 5-day forecast.
 
 ![Weather App Screenshot](screenshot.png) ![image](https://github.com/user-attachments/assets/8ca57408-4a90-4dfd-9a47-b22d66f4b306)
 
@@ -9,7 +9,7 @@ A modern and visually stunning weather app that provides real-time weather infor
 ## Features ✨
 
 - Current Weather: Displays temperature, humidity, wind speed, and weather description.
-- 4-Day Forecast: Shows a detailed forecast for the next 5 days.
+- 5-Day Forecast: Shows a detailed forecast for the next 5 days.
 - Geolocation: Automatically fetches weather data for the user's current location.
 - Responsive Design: Works seamlessly on both desktop and mobile devices.
 
